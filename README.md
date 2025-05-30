@@ -1,5 +1,3 @@
-# UI-playwright
-
 # UI Playwright Tests — TodoMVC
 
 ![Playwright](https://playwright.dev/img/playwright-logo.svg)
