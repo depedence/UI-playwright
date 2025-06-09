@@ -1,12 +1,7 @@
 {
   "name": "ui-playwright",
-  "version": "1.0.0",
+  "version": "1.9.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "npx playwright test",
-    "format": "prettier --write ."
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/depedence/UI-playwright.git"
@@ -20,12 +15,9 @@
   "homepage": "https://github.com/depedence/UI-playwright#readme",
   "devDependencies": {
     "@playwright/test": "^1.52.0",
-    "prettier": "^3.5.3"
+    "@types/node": "^22.15.30"
   },
-  "directories": {
-    "test": "tests"
-  },
-  "dependencies": {
-    "playwright": "^1.52.0"
+  "scripts": {
+
   }
 }
